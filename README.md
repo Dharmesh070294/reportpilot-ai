@@ -104,6 +104,10 @@ Deploy from the project directory:
 ```bash
 vercel
 ```
+Website:
+
+https://reportpilot-ai.vercel.app/
+
 Screeshot:
 <img width="1248" height="902" alt="Screenshot 2026-06-09 221514" src="https://github.com/user-attachments/assets/198e86ab-5ee3-4282-8e74-ed78a79046a4" />
 <img width="928" height="779" alt="Screenshot 2026-06-09 221800" src="https://github.com/user-attachments/assets/c61ae933-d6fc-4639-9d7a-31abf9a0ea68" />
