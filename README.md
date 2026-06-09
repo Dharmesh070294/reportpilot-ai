@@ -104,6 +104,12 @@ Deploy from the project directory:
 ```bash
 vercel
 ```
+Screeshot:
+<img width="1248" height="902" alt="Screenshot 2026-06-09 221514" src="https://github.com/user-attachments/assets/198e86ab-5ee3-4282-8e74-ed78a79046a4" />
+<img width="928" height="779" alt="Screenshot 2026-06-09 221800" src="https://github.com/user-attachments/assets/c61ae933-d6fc-4639-9d7a-31abf9a0ea68" />
+<img width="930" height="814" alt="Screenshot 2026-06-09 221822" src="https://github.com/user-attachments/assets/8857dddc-1b75-4d62-a703-76639f2eae19" />
+<img width="934" height="812" alt="Screenshot 2026-06-09 221846" src="https://github.com/user-attachments/assets/0615f1d2-0b2b-437d-ad16-2ff046c010a9" />
+<img width="927" height="831" alt="Screenshot 2026-06-09 221907" src="https://github.com/user-attachments/assets/1ff5cb1a-275a-4cc0-b219-b435cb88c215" />
 
 Deploy to production:
 
